@@ -1,0 +1,9 @@
+{
+	"name": "baniniadf",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "da4fc5d9-ea5f-4b18-9c03-58382e4b1221",
+		"tenantId": "61330b40-bb04-4d25-b959-f3700fbe6023"
+	}
+}
